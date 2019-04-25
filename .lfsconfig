@@ -1,2 +1,2 @@
 [remote "origin"]
-	lfsurl = http://localhost:8080/
+	lfsurl = http://10.0.3.201:8080/
